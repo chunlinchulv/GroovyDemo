@@ -1,0 +1,6 @@
+// 在这里删除了 java-library的配置
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}
